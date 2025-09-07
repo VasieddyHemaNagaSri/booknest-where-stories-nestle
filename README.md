@@ -89,22 +89,15 @@ Start the frontend server:
 
 The application should now be running on http://localhost:3000.
 
-📄 Usage
+## 📄 Usage
 
-User Features:
+### User Features:
+- Register and log in to your account.
+- Browse and search for books.
+- Borrow and return books.
+- View your borrowing history.
 
-Register and log in to your account.
-
-Browse and search for books.
-
-Borrow and return books.
-
-View your borrowing history.
-
-Admin Features:
-
-Add, update, or delete books.
-
-Manage user accounts.
-
-View and manage borrow records.
+### Admin Features:
+- Add, update, or delete books.
+- Manage user accounts.
+- View and manage borrow records.
